@@ -17,8 +17,10 @@ body {
     border-radius: 10px;
 }
 .text{
+    font-family: Arial, Helvetica, sans-serif;
     color: #4c4f69;
     flex:1;
+    font-size: 24px;
 }
 .content img{
     max-width: 200px;
