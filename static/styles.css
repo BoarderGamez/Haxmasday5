@@ -8,3 +8,18 @@ body {
     font-family: Arial, sans-serif;
     margin-top: 50px;
 }
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #179299;
+    padding: 20px;
+    border-radius: 10px;
+}
+.text{
+    color: #4c4f69;
+    flex:1;
+}
+.content img{
+    max-width: 200px;
+}
